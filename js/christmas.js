@@ -1,6 +1,6 @@
 	/**
 		Profile:;
-		Author: RuanyuJiaan;
+		Author: Minh Tiến;
 		Date: 2020/12/25;
 		
 	*/
@@ -49,7 +49,7 @@
         var oHours = document.getElementById("t_h");
         var oMinutes = document.getElementById("t_m");
         var oSeconds = document.getElementById("t_s");
-        var date1 = new Date("Jun Dec 24 2020 00:00:00 GMT+0800")
+        var date1 = new Date("Jun Dec 31 2021 00:00:00 GMT+0700")
         var date2=new Date(); 
         console.log(date2);
         var date3=date2.getTime()-date1.getTime() ;
