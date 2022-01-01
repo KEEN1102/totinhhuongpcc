@@ -6,7 +6,7 @@
         /*height: 360px;*/
         /*background-color: #333;*/
         /*color: #eee;*/
-        font-size:18px;
+        font-size:13px;
         padding: 10px;
         line-height: 50px;
     }
@@ -118,7 +118,7 @@ img {vertical-align: middle;}
 .images{
 	width: 750px;
     max-width: 85%;
-    height: 800px;
+    height: 700px;
   
 }
 /* On hover, add a black background color with a little bit see-through */
